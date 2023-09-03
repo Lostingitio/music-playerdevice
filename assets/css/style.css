@@ -192,6 +192,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   font-size: var(--title-lg);
   font-weight: var(--fw-400);
 }
+.title-by{
+   font-size: smaller;
+   font-weight: lighter;
+}
 
 .btn-icon {
   color: var(--on-surface-variant);
