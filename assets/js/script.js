@@ -7,6 +7,33 @@
  */
 
 const musicData = [
+    {
+    backgroundImage: "./assets/images/kavala.jpg",
+    posterUrl: "./assets/images/kavala.jpg",
+    title: "Kavala",
+    album: "jailer",
+    year: 2023,
+    artist: "Anirudh",
+    musicPath: "./assets/music/kaavalaa.mp3",
+  },
+    {
+    backgroundImage: "./assets/images/kesariya.jpg",
+    posterUrl: "./assets/images/kesariya.jpg",
+    title: "Kesariya",
+    album: "Bhramastra",
+    year: 2023,
+    artist: "Sid Sriram",
+    musicPath: "./assets/music/kesariya.mp3",
+  },
+    {
+    backgroundImage: "./assets/images/kannoram.jpg",
+    posterUrl: "./assets/images/kannoram.jpg",
+    title: "kannoram",
+    album: "Naam 2",
+    year: 2019,
+    artist: "Stephen",
+    musicPath: "./assets/music/kannoram.mp3",
+  },
   {
     backgroundImage: "./assets/images/poster-1.jpg",
     posterUrl: "./assets/images/poster-1.jpg",
