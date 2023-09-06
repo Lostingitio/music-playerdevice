@@ -23,7 +23,7 @@ const musicData = [
     album: "Bhramastra",
     year: 2023,
     artist: "Sid Sriram",
-    musicPath: "./assets/music/kesariya.mp3",
+    musicPath: "https://isai.sbs/hd/xQHJu_XQFifCd9QrRTe3fw/1694865176/p/Tamil%202023%20Songs/Jailer/Kaavaalaa.mp3",
   },
     {
     backgroundImage: "./assets/images/kannoram.jpg",
