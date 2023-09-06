@@ -14,7 +14,7 @@ const musicData = [
     album: "jailer",
     year: 2023,
     artist: "Anirudh",
-    musicPath: "./assets/music/kaavalaa.mp3",
+    musicPath: "https://isai.sbs/hd/xQHJu_XQFifCd9QrRTe3fw/1694865176/p/Tamil%202023%20Songs/Jailer/Kaavaalaa.mp3",
   },
     {
     backgroundImage: "./assets/images/kesariya.jpg",
